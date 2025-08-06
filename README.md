@@ -1,2 +1,1 @@
-# pipeline-tools
-publish image
+# cloud-devops-automation
